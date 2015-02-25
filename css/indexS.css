@@ -1,0 +1,37 @@
+/*html {
+  font-family: GillSans, Calibri, Trebuchet, sans-serif;
+}*/
+.intro {
+text-align: center;
+padding-top: 6%;
+padding-bottom: 8%;
+margin-bottom: 50px;
+}
+
+.intro h1{
+  text-transform: uppercase;
+  font-weight: 900;
+}
+
+.spcl{
+  font-size:4.4rem;
+  color: #EE5A28;
+}
+
+
+.intro h5{
+  text-transform: uppercase;
+  display: inline-block ;
+  font-size: 1.2rem;
+  padding: 10px;
+}
+
+footer{
+  margin-top:0.4rem;
+
+}
+
+footer .container{
+  border-top: #e3e3e3 solid 1px;
+  padding-top: 10px
+}
